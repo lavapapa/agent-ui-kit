@@ -2,7 +2,7 @@
 
 [在线浏览](https://lavapapa.github.io/agent-ui-kit/)
 
-![Agent UI Components 的桌面与移动端预览](assets/agent-ui-components-preview.png)
+![Agent UI Components 的桌面与移动端预览](images/agent-ui-components-preview.png)
 
 一个面向 LLM、AI 与 Agent 产品的界面组件索引。它把常见的交互界面放进克制的局部场景中，帮助人在看见界面时叫得出组件的名字，也能继续查看对应的实现提示。
 
